@@ -23,5 +23,6 @@ and [Scene Classification ](#Scene-Classification).
 <img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/sfm.png" width="60%"> <br>
 
 ## Scene-Classification 
-<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/scene_classification.PNG" width="60%"> <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/scene_classification.PNG" width="40%">
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/scene_examples.png" width="60%"> <br>
 
