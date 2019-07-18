@@ -1,10 +1,11 @@
 # NCTU_ComputerVision
-Completed :
-- [x] Camera Calibration
-- [x] Image Pyramid
-- [x] Panoramic Image Stitching
-- [x] Structure from motion (Sfm)
-- [x] Scene Classification 
+There are five parts of this repository, 
+including [Camera Calibration](#Camera Calibration), 
+[Image Pyramid](#Image Pyramid)(dimension reduction), 
+[Colorizing the Russian Empire](#Colorizing the Russian Empire),
+[Panoramic Image Stitching](#Panoramic Image Stitching)(dimension reduction), 
+[Panoramic Image Stitching](#Panoramic Image Stitching)(dimension reduction), 
+and [Scene Classification ](#Scene Classification).
 
 ## Camera Calibration
 <img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/camera_calibration.PNG" width="60%"> <br>
