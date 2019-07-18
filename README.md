@@ -7,17 +7,20 @@ Completed :
 - [x] Scene Classification 
 
 ## Camera Calibration
-<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/camera_calibration.PNG" width="45%"> <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/camera_calibration.PNG" width="60%"> <br>
 
 ## Image Pyramid
-![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/image_pyramid.PNG) <br>
-![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/colorize.PNG) <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/image_pyramid.PNG" width="60%"> <br>
+
+## Colorizing the Russian Empire
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/colorize.PNG" width="60%"> <br>
 
 ## Panoramic Image Stitching
-![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/panoramic_image_stitching.png) <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/panoramic_image_stitching.png" width="60%"> <br>
 
 ## Structure from motion
-![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/sfm.png) <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/sfm.png" width="60%"> <br>
 
 ## Scene Classification 
-![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/scene_classification.PNG) <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/scene_classification.PNG" width="60%"> <br>
+
