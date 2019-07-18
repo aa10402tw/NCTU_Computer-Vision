@@ -7,7 +7,7 @@ Completed :
 - [x] Scene Classification 
 
 ## Camera Calibration
-![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/camera_calibration.PNG | width=100) <br>
+<img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/camera_calibration.PNG" width="45%"> <br>
 
 ## Image Pyramid
 ![image](https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/image_pyramid.PNG) <br>
