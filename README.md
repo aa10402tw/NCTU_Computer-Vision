@@ -1,11 +1,11 @@
-# NCTU_ComputerVision
-There are five parts of this repository, 
-including [Camera Calibration](#Camera-Calibration), 
-[Image Pyramid](#Image-Pyramid), 
-[Colorizing the Russian Empire](#Colorizing-the-Russian-Empire),
-[Panoramic Image Stitching](#Panoramic-Image-Stitching), 
-[Structure from motion](#Structure-from-motion), 
-and [Scene Classification ](#Scene-Classification).
+Table of Contents
+=================
+  * [Camera Calibration](#Camera-Calibration)
+  * [Image Pyramid](#Image-Pyramid)
+  * [Colorizing the Russian Empire](#Colorizing-the-Russian-Empire)
+  * [Panoramic Image Stitching](#Panoramic-Image-Stitching)
+  * [Structure from motion](#Structure-from-motion)
+  * [Scene Classification ](#Scene-Classification)
 
 ## Camera-Calibration
 <img src="https://github.com/aa10402tw/NCTU_ComputerVision/blob/master/results/camera_calibration.PNG" width="60%"> <br>
